@@ -25,6 +25,9 @@ algorithms that rely heavily on decreasing the value of key (e.g.
 [Dijkstra’s Algorithm]
 (https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm))
 
+For more info, go to: [Fibonacci Heap]
+(https://en.wikipedia.org/wiki/Fibonacci_heap)
+
 ## Build
 
 Make sure to have JDK and Gradle installed.
